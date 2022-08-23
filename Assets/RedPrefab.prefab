@@ -96,5 +96,5 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fc42d0dae8991f542a6f91461f541275, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  Obj: {fileID: 4290019363742143841}
+  obj: {fileID: 4290019363742143841}
   rend: {fileID: 5009443029155042127}
